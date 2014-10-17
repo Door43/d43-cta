@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cta:home|Door43 (cta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cta|d43-cta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cta/archive/master.zip|d43-cta.zip]]
+
+**Recent Changes**
+{{changes>ns = cta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cta|Ethnologue data]]
+
